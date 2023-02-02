@@ -18,6 +18,11 @@ Query process was done on Google BigQuery https://console.cloud.google.com/bigqu
 
 The query resulted the monthly growth of TPV (# of revenue) and TPO (# Completed Order) by product categories from the time frame of Jan 2019 - Apr 2022.
 
+### Profit-to-cost Ratio
+
+![image](https://user-images.githubusercontent.com/123222363/216274430-c821424e-0619-455b-abd2-d41f8edaa56c.png)
+![image](https://user-images.githubusercontent.com/123222363/216274574-7ae47fc1-bff9-4c97-80b9-a386574f0871.png)
+
 ## Data Analysis & Visualization
 
 The result of the query was being processed on Google Sheet for further analysis https://docs.google.com/spreadsheets/d/1laorOAUSSmrKfm_VrzAKNma0mSwu1AxeZzLEx496tuQ/edit?usp=sharing
