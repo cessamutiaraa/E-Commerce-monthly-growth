@@ -1,5 +1,5 @@
 # Summary
-This project focused on analyzing the monthly growth of completed orders and revenue of The Look E-Commerce (fictitious E-Commerce on Google BigQuery) in percentage breakdown by product categories and analyze the profit-to-cost ration to gain insight (time frame Jan 2019 - Apr 2022) using SQL-Google BigQuery
+This project focused on analyzing the monthly growth of completed orders and revenue of The Look E-Commerce (fictitious E-Commerce on Google BigQuery) in percentage breakdown by product categories and analyzing the profit-to-cost ratio to gain insight (time frame Jan 2019 - Apr 2022) using SQL-Google BigQuery
 
 # Dataset
 The dataset used is The Look E-Commerce (fictitious clothing site in Google Bigquery) in Jan 2019 - Apr 2022. https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce?q=search&referrer=search&project=sincere-torch-350709
